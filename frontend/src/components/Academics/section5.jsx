@@ -10,7 +10,7 @@ export default function Section5({data}){
                 <div className="subjects">
                     {
                         data.subjects.map((subj) => (
-                                <Subject subjCode={subj.code} subjName={subj.text} selectedSub={sub} setSelectedSub={setSub} courses={data.courseList} setCourses={setCourses}/>
+                                <Subject subjCode={subj.code} subjName={subj.text} selectedSub={sub} setSelectedSub={setSub} link={data.link} courses={data.courseList} setCourses={setCourses}/>
                             )
                         )
                     }

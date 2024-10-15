@@ -14,7 +14,7 @@ function Advisory() {
         <div id="ContentFaculty" className="font-Maven text-[#000000] text-[1rem] flex justify-center">
             <div className="advisory">
                     {data.map((prof,index)=>(
-                    <FacultyCard image={prof.image} name={prof.name} description={prof.description}/>
+                    <FacultyCard image={prof.image} name={prof.name} iiitd={prof.iiitd} description={prof.description}/>
                     ))}
             </div>
 

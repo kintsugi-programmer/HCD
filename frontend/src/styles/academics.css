@@ -483,6 +483,25 @@
     font-family: Maven Pro;
 }
 
+
+.b1{
+    background-color: #39AEA8;
+    box-shadow: 4px 5px 13px #CECECE, -6px -4px 7px #ffffff;
+    min-width: 10rem;
+    height: 2rem;
+    border-radius: 8px;
+    margin: 1rem 0rem ;    
+    bottom: 0;
+
+    
+
+    font-family: Archivo;
+    color: #ffffff;
+}
+.b1:hover{
+    background-color: #278b86;
+}
+
 .collabContainer{
     margin-top:15rem;
     display: grid;
@@ -656,4 +675,3 @@
 ::-webkit-scrollbar-thumb:hover {
     background: #1f7570;
 }
-

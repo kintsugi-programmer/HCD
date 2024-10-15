@@ -3,25 +3,29 @@
         "id": 1,
         "image": "archan.jpg",
         "name": "PROF. ARCHAN MISRA",
-        "description": "Professor, Singapore Management University"
+        "description": "Professor, Singapore Management University",
+        "iiitd":"https://scholar.google.com/citations?user=a0YC5VAAAAAJ&hl=en"
     },
     {
         "id": 2,
         "image": "helen.jpg",
         "name": "PROF. HELEN PETRIE",
         "description": "Professor, University of York"
+        ,"iiitd":"https://scholar.google.co.uk/citations?user=xhkqoGAAAAAJ&hl=en"
     },
     {
         "id": 3,
         "image": "mark.jpg",
         "name": "PROF. MARK BILLINGHURST",
         "description": "Professor, University of South Australia"
+        ,"iiitd":"https://scholar.google.com/citations?user=S-J_ItYAAAAJ&hl=en"
     },
     {
         "id": 4,
         "image": "ravi.jpg",
         "name": "PROF. RAVI POOVAIAH",
         "description": "Professor, IIT Bombay"
+        ,"iiitd":"https://www.idc.iitb.ac.in/ravi/"
     }
 
 ]

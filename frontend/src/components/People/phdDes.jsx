@@ -21,7 +21,7 @@ export default function phdDesc({data, index, }) {
 						<b>Thesis: </b>{data.Thesis}
 					</div>
 					<div>
-						<b>Linkedin: </b><a href={data.DOI} className='pubDOI'>{data.DOI}</a>
+						<b>Profile: </b><a href={data.DOI} className='pubDOI'>{data.DOI}</a>
 					</div>
 				</span>
 			</div>
