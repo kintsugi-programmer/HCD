@@ -13,9 +13,9 @@ function FacultyCard(data,iiitd) {
   }, []);
 
   return (
-    <div className="group text-center text-[#616161] mx-5 my-2  flex flex-col items-center">
+    <div className="group text-center text-[#616161] mx-2 my-2  flex flex-col items-center">
       <a href={data.iiitd} target="_blank">
-        <div className="items-center center mx-20 "><img src={require("../../assets/profsImg/"+data.image)}/></div>
+        <div className="items-center center mx-20 "><img src={require("../../assets/profsImg/"+data.image)} height={100} width={300}/></div>
         
         <p className="font-[600] group-hover:text-[#39AEA8]">{data.name}</p>
         <p className="w-90 ">{data.description}</p>
@@ -23,7 +23,7 @@ function FacultyCard(data,iiitd) {
 
         <p className="w-90 flex items-center justify-center">
         <span className="material-symbols-outlined">school</span> 
-        &nbsp;Google Scholar Profile
+        &nbsp;Official Profile
       </p>
     </div>
   )

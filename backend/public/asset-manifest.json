@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f07aed5f.css",
-    "main.js": "/static/js/main.9438481c.js",
+    "main.js": "/static/js/main.38a20910.js",
     "static/media/final2.mp4": "/static/media/final2.072bf8dad9bcadda7fc5.mp4",
     "static/media/final0.mp4": "/static/media/final0.178ec605b8fa9eb8f82e.mp4",
     "static/media/final.mp4": "/static/media/final.adae64d2309b58310c32.mp4",
@@ -20,12 +20,14 @@
     "static/media/clouds.png": "/static/media/clouds.29c46bc1d92ad1b9b9f0.png",
     "static/media/event_61.png": "/static/media/event_61.d48c128b4558ffc7cc64.png",
     "static/media/Gallery.png": "/static/media/Gallery.79322a415df9c110645e.png",
+    "static/media/sonalpodium.png": "/static/media/sonalpodium.a15ec7da754c87a04822.png",
     "static/media/event_4.png": "/static/media/event_4.0c746593645c71871e1f.png",
     "static/media/event_16.png": "/static/media/event_16.d0442a217d64bf0d7ba3.png",
     "static/media/faculty.jpg": "/static/media/faculty.42991f66dcb81446e786.jpg",
     "static/media/Anu.jpg": "/static/media/Anu.aca1aa0b258fcaf48992.jpg",
     "static/media/facultyImg.png": "/static/media/facultyImg.5aead01c675a0b8522b1.png",
     "static/media/AdarshPandey.jpg": "/static/media/AdarshPandey.39501255429f985c834f.jpg",
+    "static/media/pragmapodium.png": "/static/media/pragmapodium.dd0ea871e8d65bf127ac.png",
     "static/media/event_50.png": "/static/media/event_50.d6fd3e18817fd1faa1c9.png",
     "static/media/event_29.jpg": "/static/media/event_29.fb2ec593c1a0e6b13f56.jpg",
     "static/media/event_3.png": "/static/media/event_3.8376b780434074c9e869.png",
@@ -91,6 +93,7 @@
     "static/media/collab14.png": "/static/media/collab14.0cf024322f7a9512bc77.png",
     "static/media/midasImg.svg": "/static/media/midasImg.140401504f585c68b7da.svg",
     "static/media/collab16.png": "/static/media/collab16.783fa97663e705b4b620.png",
+    "static/media/rajesh.png": "/static/media/rajesh.a4d0a36846777b2f34c0.png",
     "static/media/tree1.svg": "/static/media/tree1.ea1d1e96214c32580cd958ac6808acf7.svg",
     "static/media/abhijeet.png": "/static/media/abhijeet.9622f0d393abccc831e2.png",
     "static/media/collab5.png": "/static/media/collab5.fe5bc92beb346b6fe756.png",
@@ -106,6 +109,7 @@
     "static/media/sad.svg": "/static/media/sad.0b4c759eaed17e448c498742f880562d.svg",
     "static/media/event_15.jpg": "/static/media/event_15.cd3ced187bb6a982710a.jpg",
     "static/media/hands.svg": "/static/media/hands.ae89b00c0751c44148d0.svg",
+    "static/media/arun.png": "/static/media/arun.3b76813c125ce2f8e4c6.png",
     "static/media/sonal.png": "/static/media/sonal.69d2ffcfea3b8b2a8d05.png",
     "static/media/collab1.png": "/static/media/collab1.3b6df2af56a52fb5e5ad.png",
     "static/media/binu.png": "/static/media/binu.94d39d0bbaa0cc06193a.png",
@@ -174,10 +178,10 @@
     "static/media/arrow.svg": "/static/media/arrow.2ab9e1c051196754267f72586b996340.svg",
     "static/media/dropN.svg": "/static/media/dropN.0626ab082c7517e0533f5282577bba47.svg",
     "main.f07aed5f.css.map": "/static/css/main.f07aed5f.css.map",
-    "main.9438481c.js.map": "/static/js/main.9438481c.js.map"
+    "main.38a20910.js.map": "/static/js/main.38a20910.js.map"
   },
   "entrypoints": [
     "static/css/main.f07aed5f.css",
-    "static/js/main.9438481c.js"
+    "static/js/main.38a20910.js"
   ]
 }
