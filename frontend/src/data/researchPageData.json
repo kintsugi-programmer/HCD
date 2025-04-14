@@ -58,6 +58,30 @@
         "logo": "edtm_icon.png",
         "Panelimage": "edtm_panel.png",
         "txtColor":"#FFFFFF"
+    },
+    {
+        "id":"6",
+        "title": "PerSIsst Lab",
+        "subtitle": "Dr. Pragma Kar, A-413",
+        "description": "The Pervasive Sensing & Intelligent Assistive Systems (PerSIsst) lab is a dynamic research space that facilitates the design and development of innovative assistive systems to promote smart living through pervasive sensing and ubiquitous computing techniques. The lab was founded by Dr. Pragma Kar, an Assistant Professor in the Department of Human-Centered Design at IIIT-Delhi.",
+        "buttonText": "Visit Website",
+        "link":"https://persisst.iiitd.edu.in/",
+        "color": "#430055",
+        "logo": "persisst2.png",
+        "Panelimage": "brain.png",
+        "txtColor":"#FFFFFF"
+    },
+    {
+        "id":"7",
+        "title": "DREAMRS Lab",
+        "subtitle": "Dr. Sonal Keshwani, A-405",
+        "description": "The Design Research and Human Factors (DREAMRS) Lab focuses on two areas, Design Research and Human Factors. DREAMRS lab is founded and led by Dr. Sonal Keshwani (Ph.D., IISc Bangalore). It is associated with Human Centred Design at IIIT Delhi.",
+        "buttonText": "Visit Website",
+        "link":"https://www.iiitd.edu.in/~sonal.keshwani/",
+        "color": "#D833C2",
+        "logo": "dreamrs.png",
+        "Panelimage": "bird3.png",
+        "txtColor":"#FFFFFF"
     }
     
 ]
