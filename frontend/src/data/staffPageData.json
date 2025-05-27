@@ -3,12 +3,14 @@
         "id": 1,
         "image": "binu.png",
         "name": "Binu Ann Joseph",
-        "description": "Junior Manager (HCD)"
+        "description": "Junior Administrative Officer (HCD) (SG)"
+        ,"iiitd":"https://www.iiitd.ac.in/people/administration"
     },
     {
         "id": 2,
         "image": "abhijeet.png",
         "name": "Abhijeet Mishra",
-        "description": "Design Lab Engineer"
+        "description": "Deputy Technical Officer (Research)"
+        ,"iiitd":"https://www.iiitd.ac.in/people/administration"
     }
 ]
